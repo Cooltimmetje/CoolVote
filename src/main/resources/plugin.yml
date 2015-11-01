@@ -1,0 +1,7 @@
+name: CoolVote
+version: 1.0
+main: me.Cooltimmetje.CoolVote.Main
+authors: [Cooltimmetje]
+commands:
+    vote:
+        description: vote

@@ -1,0 +1,5 @@
+serverName: localhost
+port: 3306
+databaseName: swag
+user: root
+password: hai
